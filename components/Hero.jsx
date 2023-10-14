@@ -5,7 +5,7 @@ import '@/app/animation.css';
 
 const Hero = () => {
   return (
-    <section className="hero-container">
+    <section className="hero-container" id="home">
       <div className="hero-content-container">
         <div className="max-md:order-2 flex flex-col gap-5 z-40">
           <div className="text-4xl lg:text-6xl">
